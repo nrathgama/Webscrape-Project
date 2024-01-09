@@ -144,7 +144,6 @@ for url_link in material_urls:
 
                     # Writes results to a separate CSV file
                     filename = f'//knesmbsdc001/datascience_dev/KDS_DEV/DATA/DE/GRAYBAR_SCRAPED_MATERIAL_CATALOG/{str(page_number)}_{url_link}.csv'
-                    #filename = f'/Users/Nilupul.RathgamaArac/Desktop/Project/Graybar csv_final/{url_link}.csv'
                     df = pd.DataFrame(products)
                     df.to_csv(filename)
                     print(f'Saved data for material: {url_link}')
