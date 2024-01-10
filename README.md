@@ -13,6 +13,7 @@ You can either save data into a CSV file and manually upload the data into SQL s
 How can I split each column into value and UoM columns?
 
 Please see the View I have created based on the Vendor Catalog SQL table. This SQL query is splitting every column into a Value and UoM columns as well as all the fractions, decimals, and combo into decimals.
+This VIEW will help you to brush up CTE skills, CASE statements, REPLACE, CHARINDEX, PATINDEX, JOINS, CAST etc.
 
 
 Graet project to get hands on knowledge on extensive SQL and Python knowledge! :)
