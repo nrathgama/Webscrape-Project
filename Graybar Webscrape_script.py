@@ -155,7 +155,7 @@ for url_link in material_urls:
                 error_count += 1
                 print(f'This is error #{str(error_count)}')
 
-    # print('We are out of pages to run!')
+    # print('We are out of pages to run!') --- this line helps to determine if the script is actively fetching the info needed. 
 
 
     
