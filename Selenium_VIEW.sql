@@ -1,6 +1,7 @@
-/*
-LAB.vendor_catalog_graybar_scraped_selenium_VIEW
-*/
+-- This VIEW will help you to brush up CTE skills, CASE statements, REPLACE, CHARINDEX, PATINDEX, JOINS, CAST etc.
+
+
+CREATE VIEW LAB.vendor_catalog_graybar_scraped_selenium_VIEW AS
 
 
 ---BEND RADIUS col 
