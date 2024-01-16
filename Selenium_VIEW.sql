@@ -1,4 +1,4 @@
--- This VIEW will help you to brush up CTE skills, CASE statements, REPLACE, CHARINDEX, PATINDEX, JOINS, CAST etc.
+-- This VIEW will help you to brush up CTE skills, CASE statements, REPLACE, CHARINDEX, JOINS, CAST etc.
 
 
 CREATE VIEW LAB.vendor_catalog_graybar_scraped_selenium_VIEW AS
