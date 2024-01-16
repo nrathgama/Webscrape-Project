@@ -18,7 +18,6 @@ This VIEW will help you to brush up
  - CASE statements,
 - REPLACE, 
 - CHARINDEX, 
-- PATINDEX, 
 - JOINS, 
 - CAST skills.
 
